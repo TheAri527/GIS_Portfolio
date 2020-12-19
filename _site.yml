@@ -1,0 +1,14 @@
+name: "GIS Portfolio"
+output_dir: "docs"
+navbar:
+  title: "Adam Imran's GIS Portfolio"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "High school Land Use"
+      href: High_Schools.html
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: tango

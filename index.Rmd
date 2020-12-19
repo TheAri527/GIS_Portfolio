@@ -1,0 +1,8 @@
+---
+title: "home"
+author: "Adam Imran"
+date: "December 19, 2020"
+output: html_document
+---
+
+Adam Imran's GIS portfolio
