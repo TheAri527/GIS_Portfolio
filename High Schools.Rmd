@@ -29,3 +29,14 @@ unique make up of land uses.
 
 <a href="Layout1.pdf">See Layout</a>
 
+## Schools & Statistics
+```{r echo = F}
+X = read.csv("School_Stats.csv")
+X2 = X[,c(2,3,5,13)]
+X2$Area_Miles = round(X2$AREA*0.000001*0.621371,2)
+X2 = X2[,c(-2)]
+library(DT)
+X3 = datatable(X2)
+X3
+```
+
