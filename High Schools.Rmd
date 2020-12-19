@@ -1,0 +1,31 @@
+---
+title: "Layout"
+author: "Adam Imran"
+date: "December 18, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Fairfax County Public Schools
+
+![Figure 1: Land Use broken down by high school districts](./Map.png)
+
+![Figure 2: Land Use Legend](./LandUse_Legend.png)
+
+## What do we see here?
+Fairfax county is an unusual county
+surrounding Washington DC, Prince
+William County, and Loudon County. It
+varies in land use. All the way from
+Deciduous forests to Highly developed
+areas. There are many high schools
+encompassed in the Fairfax county
+boundary each school district having a
+unique make up of land uses.
+
+<a href="Layout1.pdf">See Layout</a>
+
