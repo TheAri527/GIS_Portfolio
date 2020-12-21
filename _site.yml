@@ -9,6 +9,13 @@ navbar:
       href: High_Schools.html
     - text: "Change Analysis"
       href: change.html
+    - text: "Vector Analysis"
+      href: vector.html
+    - text: "Buffers"
+      href: buffer.html
+    - text: "Elevation"
+      href: elevation.html
+    
 
 output:
   html_document:
