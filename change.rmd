@@ -1,0 +1,22 @@
+---
+title: "Change Rasters"
+author: "Adam Imran"
+date: "December 20, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 2016 Land Use Raster
+
+![Figure 1: 2016 Land Use broken down by high school districts](./Map2016.png)
+
+## 2001 Land Use Raster
+
+![Figure 2: 2001 Land Use broken down by high school districts](./Map2001.png)
+
+## Land Use Change Raster
+
+![Figure 3: Change in Land Use broken down by high school districts](./ChangeMap.png)

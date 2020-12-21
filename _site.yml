@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "High school Land Use"
       href: High_Schools.html
+    - text: "Change Analysis"
+      href: change.html
 
 output:
   html_document:
