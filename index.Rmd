@@ -1,8 +1,21 @@
----
-title: "home"
-author: "Adam Imran"
-date: "December 19, 2020"
-output: html_document
----
 
-Adam Imran's GIS portfolio
+
+## <b><u> Adam Imran's GIS portfolio! </u></b>
+
+Hi everyone my name is Adam Imran and welcome to my GIS Protfolio.
+
+![Me and my cat GiGi](./IMG_8522.JPG){width=50%}
+
+
+
+## A little bit about me:
+
+I am a recent graduate of Georgetown University where I obtained my MS in Analytics.
+Prior to this in 2018 I graduated from to the University of Wisconsin Madison where I got my BS in Statistics.
+I have had internships in Healthcare, Insurace, Nonprofits, Technology, and Politics
+I am now a fulltime Associate Data Scientist at MITRE
+
+## Introduction to this portfolio:
+
+I had the esteemed pleasure of taking a GIS course at Georgetown in the Fall semester of 2020.
+As a native of Fairfax county, this porfolio focuses on analyzing: area, elevation, and landuses amonst HS districts.
