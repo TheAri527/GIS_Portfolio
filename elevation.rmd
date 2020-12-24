@@ -1,0 +1,14 @@
+---
+title: "Elevation"
+author: "Adam Imran"
+date: "December 23, 2020"
+output: html_document
+---
+
+## Elevation breakdown by HS district
+
+Sometimes it maybe useful to look at elevation.
+
+![Figure 1:Elevation broken down by high school districts](./MapElevation.png)
+
+The darker the area, the more elevated the region is, the whiter it is the less elevated.
